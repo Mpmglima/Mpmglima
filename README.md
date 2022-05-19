@@ -1,7 +1,7 @@
 ## Olá! Eu sou Marcos Paulo Lima.
 
 - 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando JavaScript e Node.js
+- 🌱 Estudando JavaScript, Node.js e PostgreSQL.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
